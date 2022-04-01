@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da41c9e9.chunk.css",
+    "main.js": "/static/js/main.406ca476.chunk.js",
+    "main.js.map": "/static/js/main.406ca476.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.11c041a5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.11c041a5.js.map",
+    "static/css/2.1e5b31df.chunk.css": "/static/css/2.1e5b31df.chunk.css",
+    "static/js/2.604fcc5e.chunk.js": "/static/js/2.604fcc5e.chunk.js",
+    "static/js/2.604fcc5e.chunk.js.map": "/static/js/2.604fcc5e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1e5b31df.chunk.css.map": "/static/css/2.1e5b31df.chunk.css.map",
+    "static/css/main.da41c9e9.chunk.css.map": "/static/css/main.da41c9e9.chunk.css.map",
+    "static/js/2.604fcc5e.chunk.js.LICENSE.txt": "/static/js/2.604fcc5e.chunk.js.LICENSE.txt",
+    "static/media/2869279.995ab2d9.jpg": "/static/media/2869279.995ab2d9.jpg",
+    "static/media/style-home.css": "/static/media/jesse-orrico-L94dWXNKwrY-unsplash.6ebb9b3b.jpg",
+    "static/media/5197052.fbf91d38.jpg": "/static/media/5197052.fbf91d38.jpg",
+    "static/media/5197057.7122dfae.jpg": "/static/media/5197057.7122dfae.jpg",
+    "static/media/HeimdallContructionSansFond.3985e122.png": "/static/media/HeimdallContructionSansFond.3985e122.png",
+    "static/media/CheckProfile.css": "/static/media/Livingst.02ea53a5.ttf",
+    "static/media/sites.css": "/static/media/image2_filter.43f7baef.jpg",
+    "static/media/image1.34fc0a97.jpg": "/static/media/image1.34fc0a97.jpg",
+    "static/media/image4.37c9c4c9.jpg": "/static/media/image4.37c9c4c9.jpg",
+    "static/media/image6.cf62bec7.jpg": "/static/media/image6.cf62bec7.jpg",
+    "static/media/image7.62de533e.jpg": "/static/media/image7.62de533e.jpg",
+    "static/media/image8.af72038a.jpg": "/static/media/image8.af72038a.jpg",
+    "static/media/image9.03d7d1b9.jpg": "/static/media/image9.03d7d1b9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11c041a5.js",
+    "static/css/2.1e5b31df.chunk.css",
+    "static/js/2.604fcc5e.chunk.js",
+    "static/css/main.da41c9e9.chunk.css",
+    "static/js/main.406ca476.chunk.js"
+  ]
+}
